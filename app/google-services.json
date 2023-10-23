@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575289266512",
+    "project_id": "login-5ee3e",
+    "storage_bucket": "login-5ee3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575289266512:android:69eca718c12df2ee50dc55",
+        "android_client_info": {
+          "package_name": "com.geeks.midtherm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSkK_0iSev8IJ9QqiUETjCDEUdVl2LC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
